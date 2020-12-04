@@ -11,3 +11,4 @@ background-attachment:fixed;
 스크롤될때 속성 
 fixed는 고정
 scroll은 스크롤 (기본값)
+
