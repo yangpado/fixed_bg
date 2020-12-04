@@ -1,0 +1,13 @@
+rem : 최상위요소인 html 폰트크기 기준
+em : 부모요소의 폰트크기 기준
+
+background-size:49% auto;
+background image의 사이즈
+width height 순서
+
+cover(가로에 꽉채워), contain(세로에 꽉채워)
+
+background-attachment:fixed;
+스크롤될때 속성 
+fixed는 고정
+scroll은 스크롤 (기본값)
