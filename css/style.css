@@ -83,7 +83,23 @@ h6{
 	background-image:url('../images/miniblack.png');
 }
 
-
+@media screen and (max-width:959px){
+	.content, .separator{
+		font-size:1.125rem;
+	}
+	.smallscreen{
+		display:block;
+	}
+	.right{
+		padding:1.618em 3.236em;
+		background-image:none;
+	}
+	.left{
+		padding:1.618em 3.236em;
+		background-image:none;
+	}
+	
+}
 
 
 
